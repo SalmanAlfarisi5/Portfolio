@@ -1,0 +1,29 @@
+[
+  {
+    "role": "ML/AI Engineer",
+    "organisation": "VetBuddy",
+    "startDate": "November, 2024",
+    "endDate": "Present",
+    "experiences": ["Fine tuning LLM prescription", "Creating the RAG pipeline"],
+    "imageSrc": "history/VetBuddy.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "MTC",
+    "startDate": "December, 2024",
+    "endDate": "Present",
+    "experiences": ["Developed functional website", "Fullstack developer"],
+    "imageSrc": "history/MTC.png"
+  },
+  {
+    "role": "Teaching Assistant",
+    "organisation": "NUS",
+    "startDate": "January, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Conducted weekly tutorials",
+      "Reviewed student asignment"
+    ],
+    "imageSrc": "history/NUS.png"
+  }
+]
