@@ -4,15 +4,15 @@
     "organisation": "VetBuddy",
     "startDate": "November, 2024",
     "endDate": "Present",
-    "experiences": ["Fine tuning LLM prescription", "Creating the RAG pipeline"],
+    "experiences": ["Fine tuning LLM Model", "RAG pipeline for prescription"],
     "imageSrc": "history/VetBuddy.png"
   },
   {
-    "role": "Software Engineer",
+    "role": "A.I & Software Engineer",
     "organisation": "MTC",
     "startDate": "December, 2024",
     "endDate": "Present",
-    "experiences": ["Developed functional website", "Fullstack developer"],
+    "experiences": ["Developed functional website", "RAG pipeline for A.I Chatbots"],
     "imageSrc": "history/MTC.png"
   },
   {
