@@ -1,17 +1,17 @@
 [
   {
-    "role": "ML/AI Engineer",
+    "role": "ML Engineer",
     "organisation": "VetBuddy",
     "startDate": "November, 2024",
-    "endDate": "Present",
+    "endDate": "January, 2025",
     "experiences": ["Fine tuning LLM Model", "RAG pipeline for prescription"],
     "imageSrc": "history/VetBuddy.png"
   },
   {
-    "role": "A.I & Software Engineer",
+    "role": "Software Engineer",
     "organisation": "MTC",
-    "startDate": "December, 2024",
-    "endDate": "Present",
+    "startDate": "November, 2024",
+    "endDate": "January, 2025",
     "experiences": ["Developed functional website", "RAG pipeline for A.I Chatbots"],
     "imageSrc": "history/MTC.png"
   },
