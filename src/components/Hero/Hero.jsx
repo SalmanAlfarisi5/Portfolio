@@ -13,7 +13,7 @@ export const Hero = () => {
           with a minor in Quantitative Finance. Passionate about A.I. and machine learning.
         </p>
         <a 
-        href="https://drive.google.com/file/d/1e21kEK2HnQ6FPTleEav6Dd1a7CvuefIp/view?usp=sharing"
+        href="https://drive.google.com/file/d/1qFM7vp9sZ1CpAjhS6sLMc12xcdi4BVXI/view?usp=sharing"
         className={styles.contactBtn}
         target="_blank"
         rel="noopener noreferrer"
